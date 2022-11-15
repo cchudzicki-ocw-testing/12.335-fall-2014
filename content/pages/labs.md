@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the lab assignments for the course along with data
+  and supporting files.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
 title: Labs
 uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
+video_metadata:
+  youtube_id: null
 ---
 For the first lab report, please answer the questions directly in complete sentences, with attached graphs if necessary. The first lab report will be graded for (1) scientific content and (2) effectiveness of communication and returned approximately one week after it is handed in. You will then revise the lab report and resubmit it for partial additional credit. The following reports will progressively become more like a short research paper.
 
@@ -18,9 +22,9 @@ Section 1: Atmospheric Photochemistry and Air Pollution
 ### Data and Supporting Files
 
 *   {{% resource_link 39b4a18a-7ba3-c65a-b42b-49d827fdc280 "CO Measurements (CSV)" %}}
-*   [PM10 Measurements (TXT)](./resolveuid/810df4fbb538e598592a27a612b55313)
-*   [PM1.0 Measurements (TXT)](./resolveuid/7934ad3c78dcc01c6a262527bcd26de3)
-*   [PM2.5 Measurements (TXT)](./resolveuid/4808e1befdbec0c4a25b665fdedbd9aa)
+*   {{% resource_link "810df4fb-b538-e598-592a-27a612b55313" "PM10 Measurements (TXT)" %}}
+*   {{% resource_link "7934ad3c-78dc-c01c-6a26-2527bcd26de3" "PM1.0 Measurements (TXT)" %}}
+*   {{% resource_link "4808e1be-fdbe-c0c4-a25b-665fdedbd9aa" "PM2.5 Measurements (TXT)" %}}
 *   {{% resource_link 6d0f0f74-82e1-077e-3635-15bc0070bef6 "CO Example Time Series (JPG)" %}}
 *   {{% resource_link 6e8f97e3-09cb-8ada-723a-cfe8458a71cb "PM Example Time Series (JPG)" %}}
 *   {{% resource_link b59788cd-e783-548d-5506-009d67dd9ff3 "Weather Data (CSV)" %}}
@@ -29,12 +33,12 @@ Section 1: Atmospheric Photochemistry and Air Pollution
 *   {{% resource_link b755d184-d333-10f7-73a2-8fa8a9a9f2fe "Wind Speed Time Series (JPG)" %}}
 *   {{% resource_link 5d725c38-ea95-32b7-ea25-9379d6973c08 "Ozone Time Series (JPG)" %}}
 *   {{% resource_link a6a51c61-a6b4-f0fc-10ba-c86b412e17ff "NO{{< sub \"x\" >}} Time Series (JPG)" %}}
-*   [Ozone Data (TXT)](./resolveuid/26a366d4d30af0c9952f1ee7927e2478)
-*   [NO{{< sub "x" >}} Data (TXT)](./resolveuid/d9dc311019a94b3bfc978302d0822664)
+*   {{% resource_link "26a366d4-d30a-f0c9-952f-1ee7927e2478" "Ozone Data (TXT)" %}}
+*   {{% resource_link "d9dc3110-19a9-4b3b-fc97-8302d0822664" "NO{{< sub \"x\" >}} Data (TXT)" %}}
 *   {{% resource_link 13b43109-45ce-a134-cbd3-229d002c772d "October 1 Data (ZIP)" %}} (This file contains: 1 .csv file and 5 .txt files)
 *   {{% resource_link 1623aada-ac70-3efd-8ac7-b12b1f64f450 "October 3 Data (ZIP)" %}} (This file contains: 1 .csv file and 4 .txt files)
 *   {{% resource_link 3bc62941-16b9-1122-c627-7adbcbd21a1c "October 6 Data (ZIP)" %}} (This file contains: 1 .csv file and 4 .txt files)
-*   [Corrected NO{{< sub "x" >}} Timestamp (TXT)](./resolveuid/f02045ca1d95da10269955c255d9d2d2)
+*   {{% resource_link "f02045ca-1d95-da10-2699-55c255d9d2d2" "Corrected NO{{< sub \"x\" >}} Timestamp (TXT)" %}}
 
 ### MATLAB{{< sup "®" >}} Codes
 

@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and the lecture notes
+  for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 73791826-c3e0-8a4c-74d8-3832382d2d92
+video_metadata:
+  youtube_id: null
 ---
 {{< tableopen >}}
 {{< theadopen >}}
@@ -66,7 +70,7 @@ First Photochemistry Lab (No Lecture Notes)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 722fe3f8-156f-550f-9cd4-ca109c1c41e3 "Atmospheric Photochemistry and Air Pollution II (PDF - 1.3MB)" %}}
+{{% resource_link 722fe3f8-156f-550f-9cd4-ca109c1c41e3 "Atmospheric Photochemistry and Air Pollution II (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,9 +81,9 @@ First Photochemistry Lab (No Lecture Notes)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3592232b-ddf3-3519-6657-91cd1a768617 "Atmospheric Photochemistry and Air Pollution III (PDF - 1.7MB)" %}}
+{{% resource_link 3592232b-ddf3-3519-6657-91cd1a768617 "Atmospheric Photochemistry and Air Pollution III (PDF - 1.7MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c95e621c-bca2-8c2f-30d1-c78aeea02f4b "Building 54 Data Review (PDF)" %}}
+{{% resource_link c95e621c-bca2-8c2f-30d1-c78aeea02f4b "Building 54 Data Review (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -156,7 +160,7 @@ CO{{< sub "2" >}} and Climate Change Presentations (No Lecture Notes)
 19–20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 90dfa337-0df9-6bb3-6c91-d050c5d34c75 "Aerosol and Clouds I (PDF - 2.8MB)" %}}
+{{% resource_link 90dfa337-0df9-6bb3-6c91-d050c5d34c75 "Aerosol and Clouds I (PDF - 2.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
